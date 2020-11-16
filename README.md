@@ -30,6 +30,4 @@ All the necessary packages except for the unity agents package are located in th
 
 ## Instructions
 Open Continuous_Control.ipyb
-To train the code, set the variable num_episodes in cell 7 to how long you want the agent to train. It took ~300 episodes to reach a mean score of 40 over 100 episodes. Then run the whole notebook. Once its finished training, it should save its weights and graph the agent's learning curve.
-
-To just see the trained agent playing import the packages with the first 6 cells, then run the last cell. It will create a new Agent, load the trained weight, and have the trained agent play through a whole episode.
+To train the code, set the variable num_episodes in cell 7 to how long you want the agent to train. 
