@@ -30,4 +30,6 @@ All the necessary packages except for the unity agents package are located in th
 
 ## Instructions
 Open Continuous_Control.ipyb
-To train the code, set the variable num_episodes in cell 7 to how long you want the agent to train. 
+To train the code, set the variable num_episodes in cell 12 to how long you want the agent to train. 
+
+To run the trained model, run cells 1-6 to import all packages and import the saved weights. Then run the final cell to view the trained agents play.
